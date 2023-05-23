@@ -1,7 +1,7 @@
-@media (min-width: 300px) {
-    body {
-        width: auto;
-    }
+img {
+    width: 320px;
+    height: 568px;
+}
 
 body {
     background-color: grey;
